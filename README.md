@@ -1,5 +1,6 @@
 # Download Desktop
 > *This will not work oflline.* A newer version that's not just a wrapper around the website is in the works.
+
 Desktop is available for:
 ![Windows](https://snail-ide.github.io/Desktop-Download/w.png)
 [Windows](https://snail-ide.github.io/Desktop-Download/Windows.zip)
